@@ -70,6 +70,16 @@ body {
 }
 
 /* Add custom button background , id=wrapper class=btn_custom_color_1 */
-.wrapper .btn_custom_color_1{
+.wrapper .btn_custom_background_color_1{
     background-color: greenyellow;
+}
+
+.wrapper .btn_custom_color_1{
+    color: rgb(172, 182, 157);
+}
+.wrapper .btn_custom_color_2{
+    color: rgb(79, 38, 228);
+}
+.wrapper .btn_custom_color_3{
+    color: rgb(228, 193, 38);
 }
