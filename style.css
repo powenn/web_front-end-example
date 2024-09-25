@@ -68,3 +68,8 @@ body {
     /* 陰影 */
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
+
+/* Add custom button background , id=wrapper class=btn_custom_color_1 */
+.wrapper .btn_custom_color_1{
+    background-color: greenyellow;
+}
